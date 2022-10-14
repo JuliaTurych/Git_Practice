@@ -1,6 +1,7 @@
 public class Third {
     String brand;
     int miles;
+    String owner;
     public Third(String brand){
         this.brand = brand;
     }
